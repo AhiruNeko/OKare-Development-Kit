@@ -1,8 +1,7 @@
 # OKare-Development-Kit
-![](https://github.com/Dylan-wg/OKare-Development-Kit/blob/1.2/src/main/resources/assets/odk/icon.png)
 开发红石电路的利器！  
 这里是1.2版本  
-最新版本是[2.0](https://github.com/Dylan-wg/OKare-Development-Kit/tree/2.0)
+最新版本是[2.0](https://github.com/AhiruNeko/OKare-Development-Kit/tree/2.0)
 
 ## 使用说明
 ### 使用环境
@@ -22,6 +21,3 @@
 + 对着白色玻璃或观察者按右键，其将变为观察者或白色玻璃，即写入ROM
 + 对着方块按左键，该方块的坐标将被选为ODKPOS，而方块不会被破坏
 + 在潜行状态下使用会实现原版铁锹的某些功能
-### 下载地址
-+ 1.2版本：[百度网盘](https://pan.baidu.com/s/1IgxeAI2ur6S4uMVsoWQX7g) 提取码：kkdb
-+ 2.0版本：[百度网盘](https://pan.baidu.com/s/1SUAM4fnNlAaN9_gabvZ-fw) 提取码：cqke  
