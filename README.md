@@ -1,5 +1,4 @@
 # OKare-Development-Kit
-![](https://github.com/Dylan-wg/OKare-Development-Kit/blob/2.0/src/main/resources/assets/odk/icon.png)
 开发红石电路的利器！  
 这里是最新的2.0版本  
 
@@ -81,13 +80,7 @@
 7.监视器数据的保存
 + 完成监视后，数据可以导出并以记事本的形式保存到游戏文件夹下的config\odk\monitorData中
 + 用```/odk monitor saveData <name> <filename>```保存，默认的文件名是监视器的名字，相同的文件会直接替换
-+ 导出的文件包含各种信息，[点击](https://github.com/Dylan-wg/OKare-Development-Kit/blob/2.0/run/config/odk/monitorData/demo.txt)查看示例文件
++ 导出的文件包含各种信息，[点击](https://github.com/AhiruNeko/OKare-Development-Kit/blob/2.0/run/config/odk/monitorData/demo.txt)查看示例文件
 
-8.更详细的使用教程
-+ 日后会由[B站@Dylan-wg](https://space.bilibili.com/700277869)发布
-
-9.潜在的问题
+8.潜在的问题
 + 使用中继器或比较器作为停止标志时，可能不会被触发
-### 下载地址
-+ 1.2版本：[百度网盘](https://pan.baidu.com/s/1IgxeAI2ur6S4uMVsoWQX7g) 提取码：kkdb
-+ 2.0版本：[百度网盘](https://pan.baidu.com/s/1SUAM4fnNlAaN9_gabvZ-fw) 提取码：cqke  
